@@ -17,6 +17,7 @@ require (
 	github.com/Mellanox/rdmamap v0.0.0-20191106181932-7c3c4763a6ee
 	github.com/Microsoft/ApplicationInsights-Go v0.4.2
 	github.com/Microsoft/go-winio v0.4.9 // indirect
+	github.com/RedisTimeSeries/redistimeseries-go v1.4.4 // indirect
 	github.com/Shopify/sarama v1.27.2
 	github.com/aerospike/aerospike-client-go v1.27.0
 	github.com/alecthomas/units v0.0.0-20190717042225-c3de453c63f4
